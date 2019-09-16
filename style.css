@@ -1,0 +1,28 @@
+h1 {
+    color: blue
+}
+
+h2 {color: crimson}
+
+body 
+{
+    background-color: brown
+}
+
+img
+{
+    width: 4cm
+
+}
+img
+{ 
+    height: 5cm
+}
+label {
+    display: block;
+    font: 1rem 'fira sans', sans-serif;
+}
+input,
+label{
+    margin: 4rem 0;
+}
